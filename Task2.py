@@ -8,7 +8,7 @@ def math_func(a, b):
     return result
 
 
-num1 = input('Type in the firs number: ')
+num1 = input('Type in the first number: ')
 num2 = input('Type in the second number: ')
 try:
     print(f'Result: {math_func(num1, num2)}')
